@@ -1,0 +1,6 @@
+.loop-thumb {
+    height: 325px;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
